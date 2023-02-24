@@ -1,1 +1,1 @@
-# Eurekha-Finger-Tracker
+# Eureka-Finger-Tracker
