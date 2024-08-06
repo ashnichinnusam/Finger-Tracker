@@ -1,12 +1,12 @@
-# import opencv as cv2
+#import opencv as cv2
 import time
 import os
 
 import HandTrackingModule as htm
-
+import math
 wCam, hCam = 640, 480
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(3)
 cap.set(3, wCam)
 cap.set(4, hCam)
 
